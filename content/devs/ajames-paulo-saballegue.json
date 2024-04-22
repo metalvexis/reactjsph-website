@@ -1,0 +1,31 @@
+{
+  "name": "James Paulo Saballegue",
+  "avatar": "https://i.ibb.co/s9hw0hz/james.jpg",
+  "title": "Software Engineer",
+  "blurb": "Im your friendly neighborhood web dev: James. I transform ideas into practical tech in the morning. I fight forces of evil in the evening.",
+  "skills": [
+    "NodeJS",
+    "MongoDB",
+    "Postgres",
+    "Typescript",
+    "NextJS"    
+  ],
+  "contacts": [
+    {
+      "type": "email",
+      "url": "mailto:jp.saballegue@gmail.com"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/metalvexis"
+    },
+    {
+      "type": "linkedin",
+      "url": "https://www.linkedin.com/in/jpsaballegue/"
+    },
+    {
+      "type": "website",
+      "url": "https://jamespaulo.com"
+    }
+  ]
+}
